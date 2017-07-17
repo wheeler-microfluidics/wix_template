@@ -1,5 +1,3 @@
-![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/wix_template?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/wix_template?branch=master&svg=true)
-
 
 ![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/wix_template?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/wix_template?branch=master&svg=true)
 
